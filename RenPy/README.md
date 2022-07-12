@@ -130,14 +130,26 @@ Para más información [RenPy](https://www.renpy.org/doc/html/).
 
 ## Interfaz de Inicio.
 Renpy soporta todos estos idiomas y además está para el idioma español para que no haya problemas más adelante.
+<p align = "center">
+<img src = "img/lenguaje.png"
+    width = ""
+    align = "center"/>
+</p>
 
-![](img/lenguaje.png)
 
 ## Juego Prueba.
 
 Después de dar click en **Empezar a usar Ren'Py en Español** nos dirigirá a la siguiente ventana.
 
-![](img/menu.png)
+<p align = "center">
+<img src = "img/menu.png"
+    width = ""
+    align = "center"/>
+</p>
 
 Con lo siguiente vendrá el tutorial y también un juego de demostración llamado **The Question** en donde se tiene que seleccionar y dar click en **Ejecutar proyecto**. Después de ello se ejecuturá el juego como aparece en la siguiente ilustración.
-![](img/The_question.png)
+<p align = "center">
+<img src = "img/The_question.png"
+    width = ""
+    align = "center"/>
+</p>
