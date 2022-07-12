@@ -13,7 +13,7 @@ Si has jugado los juegos de citas tanto en PC como en un dispositivo electrónic
     align = "center"/>
 </p>
 
->> Imagen del videojuego de *Doki Doki Litereature Club*. Disponible en [steam](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) de forma gratuita en inglés. Basado en RenPy y aplicando Python.
+> Imagen del videojuego de *Doki Doki Litereature Club*. Disponible en [steam](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) de forma gratuita en inglés. Basado en RenPy y aplicando Python.
 #### Requisistos.
 <p align = "right">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"
