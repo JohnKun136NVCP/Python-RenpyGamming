@@ -126,3 +126,18 @@ En las actualizaciones recientes se ha implementado para *iOS* y también como t
     - Creación de estilo en menú de inicio.
 
 Para más información [RenPy](https://www.renpy.org/doc/html/).
+
+
+## Interfaz de Inicio.
+Renpy soporta todos estos idiomas y además está para el idioma español para que no haya problemas más adelante.
+
+![](img/lenguaje.png)
+
+## Juego Prueba.
+
+Después de dar click en **Empezar a usar Ren'Py en Español** nos dirigirá a la siguiente ventana.
+
+![](img/menu.png)
+
+Con lo siguiente vendrá el tutorial y también un juego de demostración llamado **The Question** en donde se tiene que seleccionar y dar click en **Ejecutar proyecto**. Después de ello se ejecuturá el juego como aparece en la siguiente ilustración.
+![](img/The_question.png)
