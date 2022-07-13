@@ -133,12 +133,12 @@ Si uno quiere desarrollar juegos sencillos. Sencillos me refiero como juegos en 
     ```
     Para **Anaconda**:
     ```python
-    pythonw
+        pythonw
 
     ```
     En vez de:
     ```python
-    python
+        python
 
     ```
 3. **Linux**
