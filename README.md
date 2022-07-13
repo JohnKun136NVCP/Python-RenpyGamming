@@ -148,15 +148,15 @@ Si uno quiere desarrollar juegos sencillos. Sencillos me refiero como juegos en 
     ```
     - Fedora/Red hat.
     ```python
-    sudo yum install python3-pygame
+        sudo yum install python3-pygame
     ```
     - OpenSUSE
     ```python
-    sudo yum install python3-pygame
+        sudo yum install python3-pygame
     ```
     - Arch/Manjaro
     ```python
-    sudo pamac install python-pygame
+        sudo pamac install python-pygame
     ```
 ## Pandas3D
 Motor de videojuegos que incluye graficos más avanzados, audio y detección de colisiones para ahora videojuegos 3D. Es de código abierto y libre software.
